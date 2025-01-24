@@ -1,3 +1,3 @@
-# alu-machine_learning
+#Machine Learning
 
--Learning linear algebra
+- Starting on ML- Mathematics in ML
