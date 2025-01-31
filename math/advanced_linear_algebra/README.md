@@ -1,3 +1,3 @@
 # Maths
 
-- Learning linear algebra
+- Learning advanced linear algebra
